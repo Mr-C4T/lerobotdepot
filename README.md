@@ -3,23 +3,40 @@
 LeRobotDepot is a community-driven repository listing open-source hardware, components, and 3D-printable projects compatible with the LeRobot library. It helps users easily discover, build, and contribute to affordable, accessible robotics solutions powered by state-of-the-art AI.
 
 ## Table of Contents
-- [6 DOF arms](#6-dof-arms)
+
+- [5 DOF arms](#5-dof-arms)
   - [TheRobotStudio/SO-ARM100](#therobotstudioso-arm100)
   - [jess-moss/koch-v1-1](#jess-mosskoch-v1-1)
   - [jess-moss/moss-robot-arms](#jess-mossmoss-robot-arms)
-- [7 DOF arms](#7-dof-arms)
+- [6 DOF arms](#6-dof-arms)
+  - [ajinkyagorad/SO-ARM107](#ajinkyagorads0-arm107)
+  - [SAM arm](#sam-arm)
 - [Mobile robot arms](#mobile-robot-arms)
+  - [SIGRobotics-UIUC/LeKiwi](#sigrobotics-uiuclekiwi)
+  - [timqian/bambot](#timqianbambot)
 - [Grippers](#grippers)
-- [Gripper accessories](#gripper-accessories)
+  - [pollen-robotics/PincOpen](#pollen-roboticspincopen)
+  - [Chojins/LeRobot-S0-100-Models](#chojinslerobot-s0-100-models)
+  - [Gripper accessories](#gripper-accessories)
 - [Task kits](#task-kits)
+  - [cgreer/robot-task-kit](#cgreerrobot-task-kit)
+  - [Hugging Face rectangular prism](#hugging-face-rectangular-prism)
 - [Track Axis](#track-axis)
-- [Full body robot](#full-body-robot)
+  - [avenhaus/SO-ARM100-Track-Axis](#avenhauss0-arm100-track-axis)
+- [Full body robot (currently only torso and arms)](#full-body-robot-currently-only-torso-and-arms)
+  - [TheRobotStudio/HOPEJr](#therobotstudiohopejr)
 - [Finger Teleoperation](#finger-teleoperation)
-- [Mobile robot](#mobile-robot)
+  - [max-titov/finger-tracker](#max-titovfinger-tracker)
+- [Two legs robot](#two-legs-robot)
+  - [apirrone/Open_Duck_Mini](#apirroneopen_duck_mini)
 - [Cameras and mounts](#cameras-and-mounts)
+  - [Cameras](#cameras)
+  - [SO-ARM100 compatible](#so-arm100-compatible)
+  - [Koch-V1-1 compatible](#koch-v1-1-compatible)
 - [Footnotes](#footnotes)
 
-# 6 DOF arms:
+
+# 5 DOF arms:
 
 ## [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
 
@@ -27,7 +44,7 @@ The 5V version is the first recommendation to start with LeRobot.
 
 <img src="https://raw.githubusercontent.com/TheRobotStudio/SO-ARM100/refs/heads/main/media/Leader_And_Follower.jpg" style="max-width:400px; width:100%; height:auto;">
 
-### BOM:
+### Price:
 |                           | US    | EU    | RMB       |
 |---------------------------|-------|-------|-----------|
 | Follower and Leader arms  | $232  | 244€  | ￥1343.16 |
@@ -46,12 +63,16 @@ You can find kits for the SO100 arms here:
 
 Additionally, you can find the SO100 follower arm kit (without the leader arm) on [Phospho](https://robots.phospho.ai). It can be especially useful if you own a VR headset.
 
+### Accessories
+
+- [SO100 arm electronics mounting cover](https://grabcad.com/library/so100-arm-electronics-mounting-cover-and-stereo-cam-holder-1)
+
 ## [jess-moss/koch-v1-1](https://github.com/jess-moss/koch-v1-1)
 If you want to familiarise yourself with more industry standard Dynamixel servo motors, this project could be a good starting point. Compared to the SO-ARM100, you will have less torque and a more limited range of movement from its base.
 
 <img src="https://raw.githubusercontent.com/jess-moss/koch-v1-1/refs/heads/main/pictures/Follower_And_Leader_Arm.jpg" style="max-width:400px; width:100%; height:auto;">
 
-### BOM:
+### Price:
 |                         | US    | EU    | UK    | RMB  | JPY   |
 |-------------------------|-------|-------|-------|------|-------|
 | Follower and Leader arms| $477  | 673€  | 507£  | ¥3947 | ¥22439 |
@@ -73,7 +94,7 @@ The moss-robot-arms project is similar to the SO-ARM100 but uses only the grippe
 
 <img src="https://raw.githubusercontent.com/jess-moss/moss-robot-arms/refs/heads/main/pictures/Render.png" style="max-width:400px; width:100%; height:auto;">
 
-### BOM:
+### Price:
 |                           | US    | EU    | RMB       |
 |---------------------------|-------|-------|-----------|
 | Follower and Leader arms  | $288  | 274€  | ￥1631.46 |
@@ -83,13 +104,20 @@ The moss-robot-arms project is similar to the SO-ARM100 but uses only the grippe
 - STS3215 7.4V or,
 - STS3215 12V<sup>[1](#myfootnote1)</sup>.
 
-# 7 DOF arms:
+# 6 DOF arms:
 
 ### [ajinkyagorad/SO-ARM107](https://github.com/ajinkyagorad/Lerobot-SO100-Arm/tree/777a90975373a8f5e9e56d468a24ab3dc5916ea4/hardware)
 
-SP-ARM100 leader and follower arms with an extra joint using 7 STS3215 servos.
+SO-ARM100 leader and follower arms with an extra joint using 7 STS3215 servos.
 
 <img src="media/so-arm-107-dof.jpg" style="max-width:400px; width:100%; height:auto;">
+
+### SAM arm
+![](media/SAM_arm.png)
+- [Discord Channel](https://t.co/pPVt7dVbnJ)
+- [Discorn message on BOM](https://discord.com/channels/1306427593586901092/1308906584239243274/1324588976312684595)
+- [Discorn message on Beta v1.1 STEP files](https://discord.com/channels/1306427593586901092/1308906584239243274/1336551154368253972)
+
 
 # Mobile robot arms
 
@@ -110,9 +138,9 @@ SP-ARM100 leader and follower arms with an extra joint using 7 STS3215 servos.
 
 ## [Chojins/LeRobot-S0-100-Models](https://github.com/Chojins/LeRobot-S0-100-Models)
 
-<img src="/media/so-100_chojins_gripper.png" style="max-width:400px; width:100%; height:auto;">
+<img src="media/so-100_chojins_gripper.png" style="max-width:400px; width:100%; height:auto;">
 
-# Gripper accessories
+## Gripper accessories
 
 - **Self-Fusing Silicone Rubber** to increase friction on gripper: [3M Product Page](https://www.3m.com/3M/en_US/p/d/b00011950/)
   
@@ -160,7 +188,7 @@ Hardware that attaches to the back of your hand and fingertips that tracks 16 de
   <img src="https://raw.githubusercontent.com/max-titov/finger-tracker/refs/heads/main/media/hand_stand.jpeg" style="max-width:300px; width:100%; height:auto;">
 </p>
 
-# Mobile robot
+# Two legs robot
 
 ## [apirrone/Open_Duck_Mini](apirrone/Open_Duck_Mini)
 
@@ -176,9 +204,31 @@ Miniature version of the BDX Droid by Disney.
 
 # Cameras and mounts
 
+## Cameras
+
+| Name | Price Range | Link | Resolution | FPS | Wide Angle | Microphone |
+|-------------|-------------|------|------------|-----|----------|----|
+| Innomaker 1080P USB2.0 | ± $18, 16€ | [Innomaker Link](https://www.inno-maker.com/product-category/products/uvc-cameras/low-cost/)| 1920×1080 | 30 | Fov(D) = 130 degrees <br> Fov(H) = 103 degree | No |
+| Innomaker 720p USB2.0 | ± $10, 14€ | [Innomaker Link](https://www.inno-maker.com/product-category/products/uvc-cameras/low-cost/)| 1280×720 | 30 | FOV (D) = 120 degrees <br> FOV (H) = 102 degrees | No |
+| Innomaker OV9281 USB 2.0 | ± $36, 42€ | [Innomaker Link](https://www.inno-maker.com/product/u20cam-9281m/) | 1280×800 | 120fps | FOV Up to 148 degrees | No |
+| Vinmooog Webcam | ± $14 , 12€| [Amazon Link](https://www.amazon.nl/-/en/Microphone-Adjustable-Conference-Streaming-Compatible/dp/B0BG1YJWFN/ref=sr_1_4?dib=eyJ2IjoiMSJ9.bXxh9SmjG8ZYOfNQMZu293elZsc0Hb_TTa-4XnQnXXO7dv_DRP_95twr0NzDuvVfdhS0fEaBljJBxHBXQMOniv_sGKN-QbYbVeqwqQ92L9YEFE3gcUFrqI3XDTJf5vnVuSxyNzaUVUPy74ctHq8QcGUXShPSIJ6NB9nFy5fz1GNbnQKnibXOkGLzilAzLfW7PzJ8mEW-M3pv9KIaRTk2LkxGsR6rDtjJCklWyazqQey7SsqWxE4PrFID5-k8LUiX3rw7lpKwD8RCcS1grPyNIzZkVKNoq858KSN33nlTg4fY2Ay4ctC9S5N6AjsJ2mX4PL4RDkCca7-r7B5KvKhvArjr184j5LcqLGSXPqzfLMU.cWjDiG8qd8h66qrPqykMCLGpcZcXHO2GPmLas6wD8dg&dib_tag=se&qid=1742508496&refinements=p_4%3AVinmooog&s=electronics&sr=1-4) |1920×1080| N/A | N/A |Yes
+
+### Others
+- https://www.amazon.co.uk/ELP-Conferencing-Fisheye-0-01Lux-Computer/dp/B08Y1KY5T9?th=1
+- https://www.amazon.com/dp/B07CSJN2KH?ref=cm_sw_r_cp_ud_dp_SMPW5DPZ46Z2TFQ24PEJ&ref_=cm_sw_r_cp_ud_dp_SMPW5DPZ46Z2TFQ24PEJ&social_share=cm_sw_r_cp_ud_dp_SMPW5DPZ46Z2TFQ24PEJ&_encoding=UTF8&peakEvent=2&dealEvent=0&skipTwisterOG=1&th=1 
+
+
+
+
 ## SO-ARM100 compatible
-- [Camera Holder Alternate](https://github.com/TheRobotStudio/SO-ARM100/blob/main/Optional/Camera_Holder_Alternate_MF)
-- [Camera Holder](https://github.com/TheRobotStudio/SO-ARM100/tree/main/Optional/Camera_Holder)
+- [Mount for innomaker 1080P USB2.0](https://github.com/TheRobotStudio/SO-ARM100/blob/main/Optional/Camera_Holder_Alternate_MF)
+- [Mount for Vinmooog Webcam](https://github.com/TheRobotStudio/SO-ARM100/tree/main/Optional/Camera_Holder)
+- [Mount for Intel realsense support](https://www.thingiverse.com/thing:6981459)
+
+## Koch-V1-1 compatible
+<img src="media/camera_mount_koch.png" style="max-width:300px; width:100%; height:auto;">
+
+[Discord Message source](https://discord.com/channels/1216765309076115607/1243077809828790363/1311493401157304350) 
 
 # Footnotes
 
