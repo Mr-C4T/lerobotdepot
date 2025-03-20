@@ -95,8 +95,8 @@ SP-ARM100 leader and follower arms with an extra joint using 7 STS3215 servos.
 
 ## [SIGRobotics-UIUC/LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi)
 
-<img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_cad_v1.png" style="height:400px; width:auto; display:inline-block;">
-<img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_real.jpg" style="height:400px; width:auto; display:inline-block;">
+<img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_cad_v1.png" style="height:300px; width:auto; display:inline-block;">
+<img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_real.jpg" style="height:300px; width:auto; display:inline-block;">
 
 ## [timqian/bambot](https://github.com/timqian/bambot)
 
@@ -156,8 +156,8 @@ SP-ARM100 leader and follower arms with an extra joint using 7 STS3215 servos.
 Hardware that attaches to the back of your hand and fingertips that tracks 16 degrees of freedom.
 
 <p>
-  <img src="https://raw.githubusercontent.com/max-titov/finger-tracker/refs/heads/main/media/overview.jpeg" style="height:400px; width:auto;">
-  <img src="https://raw.githubusercontent.com/max-titov/finger-tracker/refs/heads/main/media/hand_stand.jpeg" style="height:400px; width:auto;">
+  <img src="https://raw.githubusercontent.com/max-titov/finger-tracker/refs/heads/main/media/overview.jpeg" style="height:300px; width:auto;">
+  <img src="https://raw.githubusercontent.com/max-titov/finger-tracker/refs/heads/main/media/hand_stand.jpeg" style="height:300px; width:auto;">
 </p>
 
 # Mobile robot
@@ -168,9 +168,9 @@ Miniature version of the BDX Droid by Disney.
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/1cec3e46-de46-4abb-9c9e-20f936f15121" alt="1" style="height:400px; width:auto;"></td>
-    <td><img src="https://github.com/user-attachments/assets/d2588204-32db-47c1-9ac5-2d2f71dbb98a" alt="2" style="height:400px; width:auto;"></td>
-    <td><img src="https://github.com/user-attachments/assets/94fbd245-655e-4465-a727-950a89ff02c2" alt="3" style="height:400px; width:auto;"></td>
+    <td><img src="https://github.com/user-attachments/assets/1cec3e46-de46-4abb-9c9e-20f936f15121" alt="1" style="height:250px; width:auto;"></td>
+    <td><img src="https://github.com/user-attachments/assets/d2588204-32db-47c1-9ac5-2d2f71dbb98a" alt="2" style="height:250px; width:auto;"></td>
+    <td><img src="https://github.com/user-attachments/assets/94fbd245-655e-4465-a727-950a89ff02c2" alt="3" style="height:250px; width:auto;"></td>
   </tr>
 </table>
 
