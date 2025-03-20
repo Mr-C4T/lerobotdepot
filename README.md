@@ -132,7 +132,7 @@ SP-ARM100 leader and follower arms with an extra joint using 7 STS3215 servos.
 
 <img src="https://private-user-images.githubusercontent.com/735814/393558723-e0b855b5-bdc8-4799-8afc-ec64faba91f2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDI0NjAzOTMsIm5iZiI6MTc0MjQ2MDA5MywicGF0aCI6Ii83MzU4MTQvMzkzNTU4NzIzLWUwYjg1NWI1LWJkYzgtNDc5OS04YWZjLWVjNjRmYWJhOTFmMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMyMFQwODQxMzNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05ZTMwZDZmMTgwMzUxMTUxYTllODYxYzBjZDc1ZWNlZDY0YmMwMzg1NmMyOWUwYjgyZDM1OTQ1MjQ1ZDhiZDI4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.dqLkGmjkaS9Yi-PI4Yt0ggchhq2rVnl-nywSSL365OM" style="height:400px; width:auto;">
 
-## [Huggingface rectangular prism](https://github.com/jess-moss/koch-v1-1/tree/main/hardware/extras/STL)
+## [Hugging Face rectangular prism](https://github.com/jess-moss/koch-v1-1/tree/main/hardware/extras/STL)
 
 <img src="media/huggingface_rectangular_prism.jpeg" style="height:400px; width:auto;">
 
