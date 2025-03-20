@@ -146,8 +146,8 @@ SP-ARM100 leader and follower arms with an extra joint using 7 STS3215 servos.
 
 ## [TheRobotStudio/HOPEJr](https://github.com/TheRobotStudio/HOPEJr)
 
-<img src="media/hopejr_arm.png" style="height:400px; width:auto; display:inline-block;">
-<img src="media/hopejr_torso_and_arms.png" style="height:400px; width:auto; display:inline-block;">
+<img src="media/hopejr_arm.png" style="height:300px; width:auto; display:inline-block;">
+<img src="media/hopejr_torso_and_arms.png" style="height:300px; width:auto; display:inline-block;">
 
 # Finger Teleoperation
 
