@@ -25,7 +25,7 @@ LeRobotDepot is a community-driven repository listing open-source hardware, comp
   - [avenhaus/SO-ARM100-Track-Axis](#avenhausso-arm100-track-axis)
 - [Full body robot (currently only torso and arms)](#full-body-robot-currently-only-torso-and-arms)
   - [TheRobotStudio/HOPEJr](#therobotstudiohopejr)
-- [Finger Teleoperation](#finger-teleoperation)
+- [operation](#finger-teleoperation)
   - [max-titov/finger-tracker](#max-titovfinger-tracker)
 - [Two legs robot](#two-legs-robot)
   - [apirrone/Open_Duck_Mini](#apirroneopen-duck-mini)
@@ -226,6 +226,7 @@ Precise gripper compatible with SO-ARM100.
   <img src="media/hopejr_arm.png" width="300">
   <img src="media/hopejr_torso_and_arms.png" width="300">
 </p>
+
 # Finger Teleoperation
 
 ## [max-titov/finger-tracker](https://github.com/max-titov/finger-tracker)
