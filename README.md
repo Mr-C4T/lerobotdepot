@@ -134,6 +134,7 @@ Developed by the community around the [SimpleAutomation repository](https://gith
 # Mobile robot arms
 
 ## [SIGRobotics-UIUC/LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi)
+Mobile version of the SO-ARM100.
 
 <img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_cad_v1.png" style="max-width:300px; width:100%; height:auto; display:inline-block;">
 <img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_real.jpg" style="max-width:300px; width:100%; height:auto; display:inline-block;">
@@ -154,7 +155,17 @@ Developed by the community around the [SimpleAutomation repository](https://gith
 
 ## [timqian/bambot](https://github.com/timqian/bambot)
 
+Mobile version of the SO-ARM100 with two arms.
+
 <img alt="Bambot, open source, low-cost humanoid ($300)" src="https://github.com/user-attachments/assets/4f8a76e4-33a7-4e55-b779-dc22edda8c1b" style="max-width:400px; width:100%; height:auto;">
+
+### Price:
+|                           | US    | EU    | RMB       |
+|---------------------------|-------|-------|-----------|
+| Total  | ~$300  | ~€300  | ~￥2000 |
+
+### Motor Types:
+- STS3215 12V.
 
 # Grippers
 
