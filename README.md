@@ -171,9 +171,20 @@ Mobile version of the SO-ARM100 with two arms.
 
 ## [pollen-robotics/PincOpen](https://github.com/pollen-robotics/PincOpen)
 
+Parallel-finger gripper compatible with SO-ARM100.
+
 <img src="https://raw.githubusercontent.com/pollen-robotics/PincOpen/refs/heads/main/assets/images/pincopen_onshape.png" style="max-width:400px; width:100%; height:auto;">
 
+### Price:
+~25€
+
+### Motor Types:
+- STS3215 7.4V or,
+- STS3215 12V<sup>[1](#myfootnote1)</sup>.
+
 ## [Chojins/LeRobot-S0-100-Models](https://github.com/Chojins/LeRobot-S0-100-Models)
+
+Precise gripper compatible with SO-ARM100.
 
 <img src="media/so-100_chojins_gripper.png" style="max-width:400px; width:100%; height:auto;">
 
