@@ -9,10 +9,10 @@ LeRobotDepot is a community-driven repository listing open-source hardware, comp
   - [jess-moss/koch-v1-1](#jess-mosskoch-v1-1)
   - [jess-moss/moss-robot-arms](#jess-mossmoss-robot-arms)
 - [6 DOF arms](#6-dof-arms)
-  - [ajinkyagorad/SO-ARM107](#ajinkyagorads0-arm107)
+  - [ajinkyagorad/SO-ARM107](#ajinkyagoradso-arm107)
   - [SAM arm](#sam-arm)
 - [Mobile robot arms](#mobile-robot-arms)
-  - [SIGRobotics-UIUC/LeKiwi](#sigrobotics-uiuclekiwi)
+  - [SIGRobotics-UIUC/LeKiwi](#sigrobotics-uiuc-lekiwi)
   - [timqian/bambot](#timqianbambot)
 - [Grippers](#grippers)
   - [pollen-robotics/PincOpen](#pollen-roboticspincopen)
@@ -22,13 +22,13 @@ LeRobotDepot is a community-driven repository listing open-source hardware, comp
   - [cgreer/robot-task-kit](#cgreerrobot-task-kit)
   - [Hugging Face rectangular prism](#hugging-face-rectangular-prism)
 - [Track Axis](#track-axis)
-  - [avenhaus/SO-ARM100-Track-Axis](#avenhauss0-arm100-track-axis)
+  - [avenhaus/SO-ARM100-Track-Axis](#avenhausso-arm100-track-axis)
 - [Full body robot (currently only torso and arms)](#full-body-robot-currently-only-torso-and-arms)
   - [TheRobotStudio/HOPEJr](#therobotstudiohopejr)
 - [Finger Teleoperation](#finger-teleoperation)
   - [max-titov/finger-tracker](#max-titovfinger-tracker)
 - [Two legs robot](#two-legs-robot)
-  - [apirrone/Open_Duck_Mini](#apirroneopen_duck_mini)
+  - [apirrone/Open_Duck_Mini](#apirroneopen-duck-mini)
 - [Cameras and mounts](#cameras-and-mounts)
   - [Cameras](#cameras)
   - [SO-ARM100 compatible](#so-arm100-compatible)
@@ -113,10 +113,22 @@ SO-ARM100 leader and follower arms with an extra joint using 7 STS3215 servos.
 <img src="media/so-arm-107-dof.jpg" style="max-width:400px; width:100%; height:auto;">
 
 ### SAM arm
+
+Developed by the community around the [SimpleAutomation repository](https://github.com/SimpleAutomationOrg/SimpleAutomation), this refined version of the SO-ARM100 offers enhanced movement precision and a gripper specifically optimized for handling small objects.
+
 ![](media/SAM_arm.png)
 - [Discord Channel](https://t.co/pPVt7dVbnJ)
-- [Discorn message on BOM](https://discord.com/channels/1306427593586901092/1308906584239243274/1324588976312684595)
+- [Discorn message on Bill Of Materials](https://discord.com/channels/1306427593586901092/1308906584239243274/1324588976312684595)
 - [Discorn message on Beta v1.1 STEP files](https://discord.com/channels/1306427593586901092/1308906584239243274/1336551154368253972)
+
+### Price:
+|                           | US    |
+|---------------------------|-------|
+| Follower and Leader arms  | ± $450|
+
+### Motor Types:
+
+* STS3215 12V
 
 
 # Mobile robot arms
@@ -125,6 +137,20 @@ SO-ARM100 leader and follower arms with an extra joint using 7 STS3215 servos.
 
 <img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_cad_v1.png" style="max-width:300px; width:100%; height:auto; display:inline-block;">
 <img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_real.jpg" style="max-width:300px; width:100%; height:auto; display:inline-block;">
+
+### Price:
+
+| Price| US  | EU  |
+|---------|----:|----:|
+| 12V |  $488.21  |  €542.56  |
+| 5V  |  $524.95  |  €525.9  |
+| Base only (5V) |  $251.95  |  €306.9  |
+| Base only (12V) |  $257.43  |  €305  |
+| Base only  wired |  $174  |  €233.3  |
+
+### Motor Types:
+- STS3215 7.4V or,
+- STS3215 12V<sup>[1](#myfootnote1)</sup>.
 
 ## [timqian/bambot](https://github.com/timqian/bambot)
 
@@ -190,7 +216,7 @@ Hardware that attaches to the back of your hand and fingertips that tracks 16 de
 
 # Two legs robot
 
-## [apirrone/Open_Duck_Mini](apirrone/Open_Duck_Mini)
+## [apirrone/Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini)
 
 Miniature version of the BDX Droid by Disney.
 
