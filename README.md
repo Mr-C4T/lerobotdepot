@@ -139,6 +139,7 @@ Mobile version of the SO-ARM100.
   <img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_cad_v1.png" width="300">
   <img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_real.jpg" width="300">
 </p>
+
 ### Price:
 
 | Price              | US      | EU      |
