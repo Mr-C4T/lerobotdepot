@@ -48,7 +48,7 @@ Welcome to **LeRobotDepot**. This repository is listing open-source hardware, co
 
 The SO-ARM100 is the recommended arm to get started with LeRobot—especially the 5V version.
 
-<img src="https://raw.githubusercontent.com/TheRobotStudio/SO-ARM100/refs/heads/main/media/Leader_And_Follower.jpg" width="400">
+<img src="media/so-arm100.jpg" width="500">
 
 #### Price:
 |                           | US    | EU    | RMB       |
@@ -79,7 +79,7 @@ Both **assembled** and **non-assembled** kits are available, depending on the su
 
 If you want to familiarise yourself with more industry standard Dynamixel servo motors, this project could be a good starting point. Compared to the SO-ARM100, you will have less torque and a more limited range of movement from its base.
 
-<img src="https://raw.githubusercontent.com/jess-moss/koch-v1-1/refs/heads/main/pictures/Follower_And_Leader_Arm.jpg" width="400">
+<img src="media/koch-v1-1.png" width="500">
 
 #### Price:
 |                         | US    | EU    | UK    | RMB  | JPY   |
@@ -103,7 +103,7 @@ If you want to familiarise yourself with more industry standard Dynamixel servo 
 ### [jess-moss/moss-robot-arms](https://github.com/jess-moss/moss-robot-arms)
 The moss-robot-arms project is similar to the SO-ARM100 but uses only the gripper as a 3D printed part. It is recommended to build or purchase the SO100 arm instead. While the Moss v1 robot is still supported, it will be deprecated. Additionally, 3D-printed parts for the SO-ARM100 are now available for purchase if you don't have a printer.
 
-<img src="https://raw.githubusercontent.com/jess-moss/moss-robot-arms/refs/heads/main/pictures/Render.png" width="400">
+<img src="media/moss-robot-arm.png" width="500">
 
 #### Price:
 |                           | US    | EU    | RMB       |
@@ -123,7 +123,7 @@ The moss-robot-arms project is similar to the SO-ARM100 but uses only the grippe
 
 SO-ARM100 leader and follower arms with an extra joint using 7 STS3215 servos.
 
-<img src="media/so-arm-107-dof.jpg" width="400">
+<img src="media/so-arm107.jpg" width="500">
 
 ---
 
@@ -131,7 +131,7 @@ SO-ARM100 leader and follower arms with an extra joint using 7 STS3215 servos.
 
 Developed by the community around the [SimpleAutomation repository](https://github.com/SimpleAutomationOrg/SimpleAutomation), this refined version of the SO-ARM100 offers enhanced movement precision and a gripper specifically optimized for handling small objects.
 
-<img src="media/SAM_arm.png" width="400">
+<img src="media/SAM_arm.png" width="500">
 
 - [Discord Channel](https://t.co/pPVt7dVbnJ)
 - [Discorn message on Bill Of Materials](https://discord.com/channels/1306427593586901092/1308906584239243274/1324588976312684595)
@@ -153,8 +153,8 @@ Developed by the community around the [SimpleAutomation repository](https://gith
 Mobile version of the SO-ARM100.
 
 <p>
-  <img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_cad_v1.png" width="300">
-  <img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_real.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_cad_v1.png" width="250">
+  <img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_real.jpg" width="250">
 </p>
 
 #### Price:
@@ -177,7 +177,7 @@ Mobile version of the SO-ARM100.
 
 Mobile version of the SO-ARM100 with two arms.
 
-<img alt="Bambot, open source, low-cost humanoid ($300)" src="https://github.com/user-attachments/assets/4f8a76e4-33a7-4e55-b779-dc22edda8c1b" width="400">
+<img alt="Bambot, open source, low-cost humanoid ($300)" src="media/bambot_v2.png" width="500">
 
 #### Price:
 |                           | US    | EU    | RMB       |
@@ -195,7 +195,7 @@ Mobile version of the SO-ARM100 with two arms.
 
 Parallel-finger gripper compatible with SO-ARM100.
 
-<img src="https://raw.githubusercontent.com/pollen-robotics/PincOpen/refs/heads/main/assets/images/pincopen_onshape.png" width="400">
+<img src="media/PincOpen.png" width="500">
 
 ### Price:
 ~25€
