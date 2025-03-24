@@ -152,10 +152,7 @@ Developed by the community around the [SimpleAutomation repository](https://gith
 ### [SIGRobotics-UIUC/LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi)
 Mobile version of the SO-ARM100.
 
-<p>
-  <img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_cad_v1.png" width="250">
-  <img src="https://raw.githubusercontent.com/SIGRobotics-UIUC/LeKiwi/refs/heads/main/media/lekiwi_real.jpg" width="250">
-</p>
+<img src="media/LeKiwi.png" width="500">
 
 #### Price:
 
