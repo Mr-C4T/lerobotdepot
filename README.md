@@ -174,7 +174,7 @@ Mobile version of the SO-ARM100.
 
 Mobile version of the SO-ARM100 with two arms.
 
-<img alt="Bambot, open source, low-cost humanoid ($300)" src="media/bambot_v2.png" width="500">
+<img alt="Bambot, open source, low-cost humanoid ($300)" src="media/bambot.png" width="500">
 
 #### Price:
 |                           | US     | EU     | RMB       |
@@ -207,7 +207,7 @@ Parallel-finger gripper compatible with SO-ARM100.
 
 Precise gripper compatible with SO-ARM100.
 
-<img src="media/so-100_chojins_gripper.png" width="400">
+<img src="media/so-100_chojins_gripper.png" width="500">
 
 ---
 
@@ -215,7 +215,7 @@ Precise gripper compatible with SO-ARM100.
 
 - **Self-Fusing Silicone Rubber** to increase friction on gripper: [3M Product Page](https://www.3m.com/3M/en_US/p/d/b00011950/)
   
-  <img src="media/self_fusing_silicone_rubber.png" width="300">
+  <img src="media/silicone_rubber.png" width="500">
 
 - **Tactil sensor**: [WOWROBO Tactil Sensor](https://shop.wowrobo.com/products/enhanced-anyskin-premium-crafted-editionwowskin)
 
@@ -231,13 +231,13 @@ Precise gripper compatible with SO-ARM100.
 - Cube.
 - Ring.
 
-<img src="media/task_kit.png" width="400">
+<img src="media/task_kit.png" width="500">
 
 ---
 
 ## [Hugging Face rectangular prism](https://github.com/jess-moss/koch-v1-1/tree/main/hardware/extras/STL)
 
-<img src="media/huggingface_rectangular_prism.jpeg" width="400">
+<img src="media/huggingface_rectangular_prism.jpg" width="500">
 
 ---
 
