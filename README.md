@@ -129,7 +129,7 @@ SO-ARM100 leader and follower arms with an extra joint using 7 STS3215 servos.
 
 ### SAM arm
 
-Developed by the community around the [SimpleAutomation repository](https://github.com/SimpleAutomationOrg/SimpleAutomation), this refined version of the SO-ARM100 offers enhanced movement precision and a gripper specifically optimized for handling small objects.
+Developed by the community around the [SimpleAutomation repository](https://github.com/SimpleAutomationOrg/SimpleAutomation), this refined version of the SO-ARM100 offers enhanced movement precision and a gripper better optimized for handling small objects.
 
 <img src="media/SAM_arm.png" width="500">
 
