@@ -53,8 +53,8 @@ The SO-ARM100 is the recommended arm to get started with LeRobot—especially th
 #### Price:
 |                           | US    | EU    | RMB       |
 |---------------------------|-------|-------|-----------|
-| Follower and Leader arms  | $232  | 244€  | ￥1343.16 |
-| One Arm                   | $123  | 128€  | ￥682.23  |
+| Follower and Leader arms  | $232  | €244  | ￥1343.16 |
+| One Arm                   | $123  | €128  | ￥682.23  |
 
 #### Motor Types:
 - STS3215 7.4V or,
@@ -84,9 +84,9 @@ If you want to familiarise yourself with more industry standard Dynamixel servo 
 #### Price:
 |                         | US    | EU    | UK    | RMB  | JPY   |
 |-------------------------|-------|-------|-------|------|-------|
-| Follower and Leader arms| $477  | 673€  | 507£  | ¥3947 | ¥22439 |
-| Leader Arm              | $278  | 368€  | £285  | ¥2251 | ¥15446 |
-| Follower Arm            | $199  | 305€  | £222  | ¥1696 | ¥6993  |
+| Follower and Leader arms| $477  | €673  | £507  | ¥3947 | ¥22439 |
+| Leader Arm              | $278  | €368  | £285  | ¥2251 | ¥15446 |
+| Follower Arm            | $199  | €305  | £222  | ¥1696 | ¥6993  |
 
 #### Motor Types:
 - Dynamixel XL430
@@ -108,8 +108,8 @@ The moss-robot-arms project is similar to the SO-ARM100 but uses only the grippe
 #### Price:
 |                           | US    | EU    | RMB       |
 |---------------------------|-------|-------|-----------|
-| Follower and Leader arms  | $288  | 274€  | ￥1631.46 |
-| One Arm                   | $159  | 153€  | ￥868.13  |
+| Follower and Leader arms  | $288  | €274  | ￥1631.46 |
+| One Arm                   | $159  | €153  | ￥868.13  |
 
 #### Motor Types:
 - STS3215 7.4V or,
@@ -180,9 +180,9 @@ Mobile version of the SO-ARM100 with two arms.
 <img alt="Bambot, open source, low-cost humanoid ($300)" src="media/bambot_v2.png" width="500">
 
 #### Price:
-|                           | US    | EU    | RMB       |
-|---------------------------|-------|-------|-----------|
-| Total                     | ~$300 | ~€300 | ~￥2000  |
+|                           | US     | EU     | RMB       |
+|---------------------------|--------|--------|-----------|
+| Total                     | ~ $300 | ~ €300 | ~ ￥2000 |
 
 #### Motor Types:
 - STS3215 12V.
@@ -198,7 +198,7 @@ Parallel-finger gripper compatible with SO-ARM100.
 <img src="media/PincOpen.png" width="500">
 
 ### Price:
-~25€
+~€25
 
 ### Motor Types:
 - STS3215 7.4V or,
@@ -296,12 +296,12 @@ Miniature version of the BDX Droid by Disney.
 
 ## Cameras
 
-| Name                     | Price Range | Link | Resolution | FPS  | Wide Angle                                   | Microphone |
-|--------------------------|-------------|------|------------|------|----------------------------------------------|------------|
-| Innomaker 1080P USB2.0     | ± $18, 16€  | [Innomaker Link](https://www.inno-maker.com/product-category/products/uvc-cameras/low-cost/) | 1920×1080  | 30   | Fov(D) = 130° <br> Fov(H) = 103°              | No         |
-| Innomaker 720p USB2.0      | ± $10, 14€  | [Innomaker Link](https://www.inno-maker.com/product-category/products/uvc-cameras/low-cost/) | 1280×720   | 30   | FOV (D) = 120° <br> FOV (H) = 102°             | No         |
-| Innomaker OV9281 USB 2.0   | ± $36, 42€  | [Innomaker Link](https://www.inno-maker.com/product/u20cam-9281m/) | 1280×800   | 120  | FOV Up to 148°                               | No         |
-| Vinmooog Webcam          | ± $14, 12€  | [Amazon Link](https://www.amazon.nl/-/en/Microphone-Adjustable-Conference-Streaming-Compatible/dp/B0BG1YJWFN/) | 1920×1080  | N/A  | N/A                                          | Yes        |
+| Name                     | Price Range      | Link | Resolution | FPS  | Wide Angle                                   | Microphone |
+|--------------------------|------------------|------|------------|------|----------------------------------------------|------------|
+| Innomaker 1080P USB2.0    | ± $18, €16       | [Innomaker Link](https://www.inno-maker.com/product-category/products/uvc-cameras/low-cost/) | 1920×1080  | 30   | Fov(D) = 130° <br> Fov(H) = 103°              | No         |
+| Innomaker 720p USB2.0     | ± $10, €14       | [Innomaker Link](https://www.inno-maker.com/product-category/products/uvc-cameras/low-cost/) | 1280×720   | 30   | FOV (D) = 120° <br> FOV (H) = 102°             | No         |
+| Innomaker OV9281 USB 2.0  | ± $36, €42       | [Innomaker Link](https://www.inno-maker.com/product/u20cam-9281m/) | 1280×800   | 120  | FOV Up to 148°                               | No         |
+| Vinmooog Webcam          | ± $14, €12       | [Amazon Link](https://www.amazon.nl/-/en/Microphone-Adjustable-Conference-Streaming-Compatible/dp/B0BG1YJWFN/) | 1920×1080  | N/A  | N/A                                          | Yes        |
 
 ### Others
 - https://www.amazon.co.uk/ELP-Conferencing-Fisheye-0-01Lux-Computer/dp/B08Y1KY5T9?th=1
