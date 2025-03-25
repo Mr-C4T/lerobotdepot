@@ -50,8 +50,7 @@ The SO-ARM100 is the recommended arm to get started with LeRobot—especially th
 
 <img src="media/so-arm100.jpg" width="500">
 
-#### Price:
-|                           | US    | EU    | RMB       |
+|             Price         | US    | EU    | RMB       |
 |---------------------------|-------|-------|-----------|
 | Follower and Leader arms  | $232  | €244  | ￥1343.16 |
 | One Arm                   | $123  | €128  | ￥682.23  |
@@ -81,8 +80,8 @@ If you want to familiarise yourself with more industry standard Dynamixel servo 
 
 <img src="media/koch-v1-1.png" width="500">
 
-#### Price:
-|                         | US    | EU    | UK    | RMB  | JPY   |
+
+|         Price           | US    | EU    | UK    | RMB  | JPY   |
 |-------------------------|-------|-------|-------|------|-------|
 | Follower and Leader arms| $477  | €673  | £507  | ¥3947 | ¥22439 |
 | Leader Arm              | $278  | €368  | £285  | ¥2251 | ¥15446 |
@@ -105,8 +104,7 @@ The moss-robot-arms project is similar to the SO-ARM100 but uses only the grippe
 
 <img src="media/moss-robot-arm.png" width="500">
 
-#### Price:
-|                           | US    | EU    | RMB       |
+|        Price              | US    | EU    | RMB       |
 |---------------------------|-------|-------|-----------|
 | Follower and Leader arms  | $288  | €274  | ￥1631.46 |
 | One Arm                   | $159  | €153  | ￥868.13  |
@@ -137,8 +135,8 @@ Developed by the community around the [SimpleAutomation repository](https://gith
 - [Discorn message on Bill Of Materials](https://discord.com/channels/1306427593586901092/1308906584239243274/1324588976312684595)
 - [Discorn message on Beta v1.1 STEP files](https://discord.com/channels/1306427593586901092/1308906584239243274/1336551154368253972)
 
-#### Price:
-|                           | US    |
+
+|        Price              | US    |
 |---------------------------|-------|
 | Follower and Leader arms  | ± $450|
 
@@ -154,7 +152,6 @@ Mobile version of the SO-ARM100.
 
 <img src="media/LeKiwi.png" width="500">
 
-#### Price:
 
 | Price              | US      | EU      |
 |--------------------|---------|---------|
@@ -176,8 +173,7 @@ Mobile version of the SO-ARM100 with two arms.
 
 <img alt="Bambot, open source, low-cost humanoid ($300)" src="media/bambot.png" width="500">
 
-#### Price:
-|                           | US     | EU     | RMB       |
+|              Price        | US     | EU     | RMB       |
 |---------------------------|--------|--------|-----------|
 | Total                     | ~ $300 | ~ €300 | ~ ￥2000 |
 
@@ -245,7 +241,7 @@ Precise gripper compatible with SO-ARM100.
 
 ## [avenhaus/SO-ARM100-Track-Axis](https://github.com/avenhaus/SO-ARM100-Track-Axis)
 
-<img src="https://raw.githubusercontent.com/avenhaus/SO-ARM100-Track-Axis/refs/heads/main/Images/Arm.jpg" width="400">
+<img src="media/track_axis.png" width="500">
 
 ---
 
@@ -253,10 +249,8 @@ Precise gripper compatible with SO-ARM100.
 
 ## [TheRobotStudio/HOPEJr](https://github.com/TheRobotStudio/HOPEJr)
 A project for a full body robot—currently featuring the torso and arms.
-<p>
-  <img src="media/hopejr_arm.png" width="300">
-  <img src="media/hopejr_torso_and_arms.png" width="300">
-</p>
+
+<img src="media/hopejr.png" width="500">
 
 ---
 
@@ -266,10 +260,9 @@ A project for a full body robot—currently featuring the torso and arms.
 
 Hardware that attaches to the back of your hand and fingertips that tracks 16 degrees of freedom.
 
-<p>
-  <img src="https://raw.githubusercontent.com/max-titov/finger-tracker/refs/heads/main/media/overview.jpeg" width="300">
-  <img src="https://raw.githubusercontent.com/max-titov/finger-tracker/refs/heads/main/media/hand_stand.jpeg" width="300">
-</p>
+
+<img src="media/finger_tracker.png" width="500">
+
 
 ---
 
@@ -279,13 +272,9 @@ Hardware that attaches to the back of your hand and fingertips that tracks 16 de
 
 Miniature version of the BDX Droid by Disney.
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/1cec3e46-de46-4abb-9c9e-20f936f15121" alt="1" width="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/d2588204-32db-47c1-9ac5-2d2f71dbb98a" alt="2" width="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/94fbd245-655e-4465-a727-950a89ff02c2" alt="3" width="250"></td>
-  </tr>
-</table>
+
+<img src="media/open_duck_mini.png" width="500">
+
 
 ---
 
@@ -314,7 +303,7 @@ Miniature version of the BDX Droid by Disney.
 ---
 
 ## Koch-V1-1 Compatible Mounts
-<img src="media/camera_mount_koch.png" width="300">
+<img src="media/koch_camera_mount.png" width="500">
 
 [Discord Message source](https://discord.com/channels/1216765309076115607/1243077809828790363/1311493401157304350) 
 
