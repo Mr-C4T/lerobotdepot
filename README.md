@@ -215,6 +215,8 @@ Precise gripper compatible with SO-ARM100.
 
 - **Tactil sensor**: [WOWROBO Tactil Sensor](https://shop.wowrobo.com/products/enhanced-anyskin-premium-crafted-editionwowskin)
 
+  <img src="media/tactil_sensor.png" width="500">
+
 ---
 
 # Task kits
