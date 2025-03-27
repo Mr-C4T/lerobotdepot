@@ -10,11 +10,11 @@ Welcome to **LeRobotDepot**. This repository is listing open-source hardware, co
   - [Mobile Arms](#mobile-arms)
   - [Mobile Bi-manual Arms](#mobile-bi-manual-arms)
   - [Humanoid Robots](#humanoid-robots)
+  - [Bipedal Robots](#bipedal-robots)
   - [Grippers & Accessories](#grippers--accessories)
   - [Track Axis](#track-axis)
 - [Dynamixel Family](#dynamixel-family)
   - [Robot Arms](#robot-arms-dynamixel)
-  - [Bipedal Robots](#bipedal-robots)
 - [Common Accessories & Add-ons](#common-accessories--add-ons)
   - [Task Kits](#task-kits)
   - [Other Accessories](#other-accessories)
@@ -173,6 +173,16 @@ Mobile version of the SO-ARM100 with two arms.
 
 ---
 
+## Bipedal Robots
+
+### [apirrone/Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini)
+
+Miniature version of the BDX Droid by Disney.
+
+<img src="media/open_duck_mini.png" width="500">
+
+---
+
 ## Humanoid Robots
 
 ### [TheRobotStudio/HOPEJr](https://github.com/TheRobotStudio/HOPEJr)
@@ -243,16 +253,6 @@ The Koch-v1-1 is a 5 DOF robotic arm. If you want to familiarise yourself with m
 - Robotic arm inspired by Kochv-1-1: [WOWROBO Twinarm](https://shop.wowrobo.com/products/wowrobo-twinarm-robotic-arm-set-inspired-by-koch-v1-1)
 - Gripper with Camera kit for Koch-v1-1: [WOWROBO Gripper-Camera Kit](https://shop.wowrobo.com/products/gripper-camera-kit-for-koch-v1-1)
 - Haptic sensors for Koch-v1-1 gripper: [Enhanced AnySkin](https://shop.wowrobo.com/products/enhanced-anyskin-premium-crafted-editionwowskin)
-
----
-
-## Bipedal Robots
-
-### [apirrone/Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini)
-
-Miniature version of the BDX Droid by Disney.
-
-<img src="media/open_duck_mini.png" width="500">
 
 ---
 
