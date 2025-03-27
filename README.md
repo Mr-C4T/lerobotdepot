@@ -136,6 +136,12 @@ N/A
 
 ## Bi-manual Arms
 
+### [Mr-C4T/AB-SO-BOT](https://github.com/Mr-C4T/AB-SO-BOT)
+
+AB-SO-BOT is built using a combination of 3D-printed parts and standard 4040-T-slot aluminium extrusion to create a flexible and modular body for the SO-ARM100 robotic arm. This modularity allows for easy customization, expansion, and adaptation for different robotic applications.
+
+<img src="media/ab-so-bot.png" width="500">
+
 ---
 
 ## Mobile Arms
@@ -158,13 +164,7 @@ Mobile version of the SO-ARM100.
 
 ## Mobile Bi-manual Arms
 
-### [Mr-C4T/AB-SO-BOT](https://github.com/Mr-C4T/AB-SO-BOT)
 
-AB-SO-BOT is built using a combination of 3D-printed parts and standard 4040-T-slot aluminium extrusion to create a flexible and modular body for the SO-ARM100 robotic arm. This modularity allows for easy customization, expansion, and adaptation for different robotic applications.
-
-<img src="media/ab-so-bot.png" width="500">
-
----
 
 ### [timqian/bambot](https://github.com/timqian/bambot)
 
