@@ -292,7 +292,7 @@ To increase friction on gripper.
 
 ## [max-titov/finger-tracker](https://github.com/max-titov/finger-tracker)
 
-Hardware that attaches to the back of your hand and fingertips that tracks 16 degrees of freedom.
+Hardware that attaches to the back of your hand and fingertips that tracks 16 degrees of freedom. Compatible with [HOPEJr hands](#therobotstudiohopejr).
 
 
 <img src="media/finger_tracker.png" width="500">
