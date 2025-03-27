@@ -4,6 +4,12 @@ Welcome to **LeRobotDepot**. This repository is listing open-source hardware, co
 
 ---
 
+## Contributing
+
+Interested in contributing? Please take a moment to review our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get started.
+
+---
+
 ## Table of Contents
 
 - [Robot Arms](#robot-arms)
