@@ -300,7 +300,7 @@ Miniature version of the BDX Droid by Disney.
 ## SO-ARM100 Compatible Mounts
 - [Mount for innomaker 1080P USB2.0](https://github.com/TheRobotStudio/SO-ARM100/blob/main/Optional/Camera_Holder_Alternate_MF)
 - [Mount for Vinmooog Webcam](https://github.com/TheRobotStudio/SO-ARM100/tree/main/Optional/Camera_Holder)
-- [Mount for Intel realsense support](https://www.thingiverse.com/thing:6981459)
+- [Mount for Intel realsense D435](https://www.thingiverse.com/thing:6981459)
 
 ---
 
