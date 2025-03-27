@@ -212,11 +212,13 @@ It provides an additional axis to the SO-ARM100 robot arm.
 ---
 # Dynamixel Family
 
+Hardware in this family uses Dynamixel servo motors, which are considered more of an industry standard than Feetech motors.
+
 ## Robot Arms:
 
 ### [jess-moss/koch-v1-1](https://github.com/jess-moss/koch-v1-1)
 
-If you want to familiarise yourself with more industry standard Dynamixel servo motors, this project could be a good starting point. Compared to the SO-ARM100, you will have less torque and a more limited range of movement from its base.
+The Koch-v1-1 is a 5 DOF robotic arm. If you want to familiarise yourself with more industry standard Dynamixel servo motors, this project could be a good starting point. Compared to the SO-ARM100, you will have less torque and a more limited range of movement from its base.
 
 <img src="media/koch-v1-1.png" width="500">
 
@@ -249,7 +251,6 @@ If you want to familiarise yourself with more industry standard Dynamixel servo 
 ### [apirrone/Open_Duck_Mini](https://github.com/apirrone/Open_Duck_Mini)
 
 Miniature version of the BDX Droid by Disney.
-
 
 <img src="media/open_duck_mini.png" width="500">
 
