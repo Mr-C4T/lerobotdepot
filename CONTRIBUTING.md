@@ -21,7 +21,7 @@ We strive to create a welcoming and supportive environment for all. Please revie
 
 ### Reporting Issues
 
-- **Bug Reports:** If you find a broken link, outdated information, or any other errors, please [open an issue](https://github.com/yourusername/lerobotdepot/issues) with a clear description of the problem.
+- **Bug Reports:** If you find a broken link, outdated information, or any other errors, please [open an issue](https://github.com/maximilienroberti/lerobotdepot/issues) with a clear description of the problem.
 - **Content Corrections:** If you notice typos or unclear sections, let us know by creating an issue or suggesting a correction in your pull request.
 
 ### Suggesting Enhancements
