@@ -128,9 +128,6 @@ This is a **6 DOF arm**, developed by the community around the [SimpleAutomation
 |---------------------------|-------|
 | Follower and Leader arms  | ± $450|
 
-#### Accessories
-
-N/A
 
 ---
 
@@ -163,8 +160,6 @@ Mobile version of the SO-ARM100.
 ---
 
 ## Mobile Bi-manual Arms
-
-
 
 ### [timqian/bambot](https://github.com/timqian/bambot)
 
@@ -209,6 +204,8 @@ Precise gripper compatible with SO-ARM100.
 ---
 
 ### [avenhaus/SO-ARM100-Track-Axis](https://github.com/avenhaus/SO-ARM100-Track-Axis)
+
+It provides an additional axis to the SO-ARM100 robot arm.
 
 <img src="media/track_axis.png" width="500">
 
