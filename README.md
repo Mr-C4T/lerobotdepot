@@ -1,4 +1,4 @@
-![](media/lerobotdepot_v2.png)
+![](media/lerobotdepot_logo.png)
 
 Welcome to **LeRobotDepot**. This repository is listing open-source hardware, components, and 3D-printable projects compatible with the [LeRobot library](https://github.com/huggingface/lerobot). It helps users easily discover, build, and contribute to affordable, accessible robotics solutions powered by state-of-the-art AI.
 
