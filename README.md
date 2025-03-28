@@ -261,6 +261,27 @@ The Koch-v1-1 supports 2 wrist camera options:
 
 ---
 
+## Bi-manual Arms
+
+### [ALOHA 2 Arm](https://aloha-2.github.io)
+
+
+ALOHA 2 is a bimanual teleoperation system that uses two types of arms—a pair of smaller, ergonomically designed leader arms and two robust follower arms—to support coordinated dual-arm manipulation. Each arm offers **6 degrees of freedom (6 DOF)**, which provides an extensive range of motion for accessing various positions and orientations.
+
+The system is designed for research in fine-grained bimanual manipulation. Its construction includes enhanced gripper mechanisms, a passive gravity compensation system, and a rigid frame that supports precise and repeatable operations for complex tasks. These advanced features and components are reflected in its higher cost compared to more basic robotic arm solutions.
+
+<img src="media/aloha-2.png" width="500">
+
+#### Price
+
+~$27,000
+
+#### Kits
+
+- [Aloha Stationary](https://www.trossenrobotics.com/aloha-stationary) by [Trossen Robotics](https://www.trossenrobotics.com)
+
+---
+
 # Common Accessories & Add-ons
 
 ## Task kits
