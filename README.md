@@ -58,7 +58,7 @@ The SO-ARM100 supports multiple wrist camera options to suit a variety of applic
 |------------------------|---------------------------------------------------------------------------------------------------------------|-------|
 | [Vinmooog Webcam](https://amzn.eu/d/9nrIy5I)        |[SO-ARM100 Instructions](https://github.com/TheRobotStudio/SO-ARM100/tree/main/Optional/Wrist_Cam_Mount_Vinmooog_Webcam) | |
 | 32x32mm UVC Module     |[SO-ARM100 Instructions](https://github.com/TheRobotStudio/SO-ARM100/tree/main/Optional/Wrist_Cam_Mount_32x32_UVC_Module)| |
-| [Arducam 5MP Wide Angle](https://a.co/d/dFq7oRB) |[STL File](https://github.com/SIGRobotics-UIUC/LeKiwi/blob/main/3DPrintMeshes/wrist_camera_mount.stl)| |
+| [Arducam 5MP Wide Angle](https://a.co/d/dFq7oRB) |[Le Kiwi STL File](https://github.com/SIGRobotics-UIUC/LeKiwi/blob/main/3DPrintMeshes/wrist_camera_mount.stl)| It can also be used with 32x32mm UVC modules, but if you don't use a wide-angle camera, the gripper will not appear in the camera view. |
 | [RealSense™ D405](https://www.intelrealsense.com/depth-camera-d405/) |[SO-ARM100 Instructions](https://github.com/TheRobotStudio/SO-ARM100/tree/main/Optional/Wrist_Cam_Mount_RealSense_D405) | |
 | [RealSense™ D435](https://www.intelrealsense.com/depth-camera-d435/)  | [STL File](https://www.thingiverse.com/thing:6981459)                         | |
 
