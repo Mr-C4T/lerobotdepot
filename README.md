@@ -264,7 +264,7 @@ The Koch-v1-1 supports 2 wrist camera options:
 
 ## Bi-manual Arms: <a name="bi-manual-arms-dynamixel"></a>
 
-### [ALOHA 2 Arm](https://aloha-2.github.io)
+### [ALOHA 2](https://aloha-2.github.io)
 
 
 ALOHA 2 is a bimanual teleoperation system that uses two types of arms—a pair of smaller, ergonomically designed leader arms and two robust follower arms—to support coordinated dual-arm manipulation. Each arm offers **6 degrees of freedom (6 DOF)**, which provides an extensive range of motion for accessing various positions and orientations.
