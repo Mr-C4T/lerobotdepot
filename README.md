@@ -122,8 +122,8 @@ This is a **6 DOF arm**, developed by the community around the [SimpleAutomation
 <img src="media/SAM_arm.png" width="500">
 
 - [Discord Channel](https://t.co/pPVt7dVbnJ)
-- [Discorn message on Bill Of Materials](https://discord.com/channels/1306427593586901092/1308906584239243274/1324588976312684595)
-- [Discorn message on Beta v1.1 STEP files](https://discord.com/channels/1306427593586901092/1308906584239243274/1336551154368253972)
+- [Discord message on Bill Of Materials](https://discord.com/channels/1306427593586901092/1308906584239243274/1324588976312684595)
+- [Discord message on Beta v1.1 STEP files](https://discord.com/channels/1306427593586901092/1308906584239243274/1336551154368253972)
 
 
 |        Price              | US    |
