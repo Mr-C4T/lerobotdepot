@@ -95,7 +95,7 @@ This **5 DOF arm** is similar to the SO-ARM100 but uses only the gripper as a 3D
 
 #### Accessories
 
-See [SO-ARM100 Accessories](#therobotstudioso-arm100) for compatible components and mounts.
+See [SO-ARM100 Accessories](#so-arm100-accessories) for compatible components and mounts.
 
 ---
 
