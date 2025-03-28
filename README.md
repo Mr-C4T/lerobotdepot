@@ -183,6 +183,10 @@ Miniature version of the BDX Droid by Disney.
 
 <img src="media/open_duck_mini.png" width="500">
 
+#### Price
+
+~€410
+
 ---
 
 ## Humanoid Robots
