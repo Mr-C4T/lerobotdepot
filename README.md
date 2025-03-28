@@ -15,6 +15,7 @@ Welcome to **LeRobotDepot**. This repository is listing open-source hardware, co
   - [Track Axis](#track-axis)
 - [Dynamixel Family](#dynamixel-family)
   - [Robot Arms](#robot-arms-dynamixel)
+  - [Bi-manual Arms](#bi-manual-arms-dynamixel)
 - [Common Accessories & Add-ons](#common-accessories--add-ons)
   - [Task Kits](#task-kits)
   - [Other Accessories](#other-accessories)
@@ -225,7 +226,7 @@ It provides an additional axis to the SO-ARM100 robot arm.
 
 Hardware in this family uses Dynamixel servo motors, which are considered more of an industry standard than Feetech motors.
 
-## Robot Arms:
+## Robot Arms: <a name="robot-arms-dynamixel"></a>
 
 ### [jess-moss/koch-v1-1](https://github.com/jess-moss/koch-v1-1)
 
@@ -261,7 +262,7 @@ The Koch-v1-1 supports 2 wrist camera options:
 
 ---
 
-## Bi-manual Arms
+## Bi-manual Arms: <a name="bi-manual-arms-dynamixel"></a>
 
 ### [ALOHA 2 Arm](https://aloha-2.github.io)
 
