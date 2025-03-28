@@ -53,12 +53,13 @@ For detailed information on the various accessories available for the SO-ARM100,
 
 The SO-ARM100 supports multiple wrist camera options to suit a variety of applications. There are three officially supported options and one community-developed alternative:
 
-| Camera Name           | Reference Link                                                                                     |
-|-----------------------|----------------------------------------------------------------------------------------------------|
-| Vinmooog Webcam       | [Instructions](https://github.com/TheRobotStudio/SO-ARM100/tree/main/Optional/Wrist_Cam_Mount_Vinmooog_Webcam) |
-| 32x32mm UVC Module    | [Instructions](https://github.com/TheRobotStudio/SO-ARM100/tree/main/Optional/Wrist_Cam_Mount_32x32_UVC_Module) |
-| RealSense™ D405       | [Instructions](https://github.com/TheRobotStudio/SO-ARM100/tree/main/Optional/Wrist_Cam_Mount_RealSense_D405) |
-| RealSense™ D435       | [STL Files](https://www.thingiverse.com/thing:6981459)                         |
+| Camera Name            |Reference Link                                                                                                 | Notes |
+|------------------------|---------------------------------------------------------------------------------------------------------------|-------|
+| [Vinmooog Webcam](https://amzn.eu/d/9nrIy5I)        |[SO-ARM100 Instructions](https://github.com/TheRobotStudio/SO-ARM100/tree/main/Optional/Wrist_Cam_Mount_Vinmooog_Webcam) | |
+| 32x32mm UVC Module     |[SO-ARM100 Instructions](https://github.com/TheRobotStudio/SO-ARM100/tree/main/Optional/Wrist_Cam_Mount_32x32_UVC_Module)| |
+| [Arducam 5MP Wide Angle](https://a.co/d/dFq7oRB) |[STL File](https://github.com/SIGRobotics-UIUC/LeKiwi/blob/main/3DPrintMeshes/wrist_camera_mount.stl)| |
+| [RealSense™ D405](https://www.intelrealsense.com/depth-camera-d405/) |[SO-ARM100 Instructions](https://github.com/TheRobotStudio/SO-ARM100/tree/main/Optional/Wrist_Cam_Mount_RealSense_D405) | |
+| [RealSense™ D435](https://www.intelrealsense.com/depth-camera-d435/)  | [STL File](https://www.thingiverse.com/thing:6981459)                         | |
 
 
 ##### Haptic Sensors
@@ -233,26 +234,30 @@ The Koch-v1-1 is a 5 DOF robotic arm. If you want to familiarise yourself with m
 <img src="media/koch-v1-1.png" width="500">
 
 
-|         Price           | US    | EU    | UK    | RMB  | JPY   |
-|-------------------------|-------|-------|-------|------|-------|
+|         Price           | US    | EU    | UK    | RMB   | JPY    |
+|-------------------------|-------|-------|-------|-------|--------|
 | Follower and Leader arms| $477  | €673  | £507  | ¥3947 | ¥22439 |
 | Leader Arm              | $278  | €368  | £285  | ¥2251 | ¥15446 |
 | Follower Arm            | $199  | €305  | £222  | ¥1696 | ¥6993  |
 
-#### Motor Types:
-- Dynamixel XL430
-- Dynamixel XL330-M288-T
-- Dynamixel XL330-M077-T
+#### Accessories
 
-#### Wrist Cameras
-<img src="media/koch_camera_mount.png" width="500">
+##### Wrist Cameras
 
-[Discord Message source](https://discord.com/channels/1216765309076115607/1243077809828790363/1311493401157304350) 
+The Koch-v1-1 supports 2 wrist camera options:
+
+| Camera Name | Reference Link | Notes |
+|-------------|----------------|-------|
+| [SVPRO 1080P](https://a.co/d/bbgtN1L)| [Discord Message with STL file](https://discord.com/channels/1216765309076115607/1243077809828790363/1311493401157304350) | |
+| N/A | [WOWROBO Gripper-Camera Kit](https://shop.wowrobo.com/products/gripper-camera-kit-for-koch-v1-1) | Kit including the gripper, the camera mount and the camera |
+
+##### Haptic Sensors
+
+- [WOWROBO Haptic sensor](https://shop.wowrobo.com/products/enhanced-anyskin-premium-crafted-editionwowskin)
 
 #### Kits
+
 - Robotic arm inspired by Kochv-1-1: [WOWROBO Twinarm](https://shop.wowrobo.com/products/wowrobo-twinarm-robotic-arm-set-inspired-by-koch-v1-1)
-- Gripper with Camera kit for Koch-v1-1: [WOWROBO Gripper-Camera Kit](https://shop.wowrobo.com/products/gripper-camera-kit-for-koch-v1-1)
-- Haptic sensors for Koch-v1-1 gripper: [Enhanced AnySkin](https://shop.wowrobo.com/products/enhanced-anyskin-premium-crafted-editionwowskin)
 
 ---
 
