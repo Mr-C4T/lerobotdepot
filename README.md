@@ -70,7 +70,7 @@ The SO-ARM100 supports multiple wrist camera options to suit a variety of applic
 
 ##### Others
 - [SO-ARM100 electronics mounting cover](https://grabcad.com/library/so100-arm-electronics-mounting-cover-and-stereo-cam-holder-1)
-
+- [Magnetic Encoder Dummy Servo](https://github.com/avenhaus/SO-ARM100-Encoders)
 
 #### Kits
 
