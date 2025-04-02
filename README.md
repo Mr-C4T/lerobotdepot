@@ -316,7 +316,11 @@ To increase friction on gripper.
   
   <img src="media/silicone_rubber.png" width="500">
 
+### [Foam Tape](https://www.amazon.com/s?k=Window%2BFoam%2BSeal%2BTape%2B1%2F2Inch%2BWide%2BX%2B1%2F2Inch)
+Alternative to silicone rubber for increasing friction.
 
+  <img src="media/foam_tape.jpg" width="500">
+  
 ---
 
 # Teleoperation
