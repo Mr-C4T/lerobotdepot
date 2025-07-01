@@ -211,8 +211,6 @@ Parallel-finger gripper compatible with SO-ARM100.
 
 ---
 
-## Grippers & Accessories
-
 ### [Chojins/LeRobot-S0-100-Models](https://github.com/Chojins/LeRobot-S0-100-Models)
 
 Precise gripper compatible with SO-ARM100.
